@@ -46,16 +46,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: .net-app
-          
-      - uses: azure/login@v1
-        with:
-          creds: ${{ secrets.AZURE_CREDENTIALS }}
-          
+
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'EldenRing'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BBE6167D5164D1EB8A5C0C282B5FFC0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C41B828C6F6E4807AB337B9418E046AB }}
           package: .
