@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\bin\Debug\net6.0\EldenRing.Mvc.App.Data.deps.json
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\bin\Debug\net6.0\EldenRing.Mvc.App.Data.runtimeconfig.json
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\bin\Debug\net6.0\EldenRing.Mvc.App.Data.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\bin\Debug\net6.0\EldenRing.Mvc.App.Data.pdb
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.AssemblyInfo.cs
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\refint\EldenRing.Mvc.App.Data.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.pdb
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\EldenRing.Mvc.App.Data.genruntimeconfig.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Data\obj\Debug\net6.0\ref\EldenRing.Mvc.App.Data.dll

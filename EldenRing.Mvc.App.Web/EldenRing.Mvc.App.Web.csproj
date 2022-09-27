@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Files\ammos.json" />
+    <Content Remove="Files\armors.json" />
+    <Content Remove="Files\ashes.json" />
+    <Content Remove="Files\bosses.json" />
+    <Content Remove="Files\classes.json" />
+    <Content Remove="Files\creatures.json" />
+    <Content Remove="Files\incantations.json" />
+    <Content Remove="Files\items.json" />
+    <Content Remove="Files\locations.json" />
+    <Content Remove="Files\npcs.json" />
+    <Content Remove="Files\shields.json" />
+    <Content Remove="Files\sorceries.json" />
+    <Content Remove="Files\spirits.json" />
+    <Content Remove="Files\talismans.json" />
+    <Content Remove="Files\weapons.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Files\ammos.json" />
+    <EmbeddedResource Include="Files\armors.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="Files\ashes.json" />
+    <None Include="Files\bosses.json" />
+    <None Include="Files\classes.json" />
+    <None Include="Files\creatures.json" />
+    <None Include="Files\incantations.json" />
+    <None Include="Files\items.json" />
+    <None Include="Files\locations.json" />
+    <None Include="Files\npcs.json" />
+    <None Include="Files\shields.json" />
+    <None Include="Files\sorceries.json" />
+    <None Include="Files\spirits.json" />
+    <None Include="Files\talismans.json" />
+    <None Include="Files\weapons.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EldenRing.Mvc.App.Business\EldenRing.Mvc.App.Business.csproj" />
+  </ItemGroup>
+
+</Project>

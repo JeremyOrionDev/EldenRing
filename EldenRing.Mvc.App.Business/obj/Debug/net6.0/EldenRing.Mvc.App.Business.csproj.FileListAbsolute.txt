@@ -1,0 +1,15 @@
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\bin\Debug\net6.0\EldenRing.Mvc.App.Business.deps.json
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\bin\Debug\net6.0\EldenRing.Mvc.App.Business.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\bin\Debug\net6.0\EldenRing.Mvc.App.Business.pdb
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.AssemblyInfo.cs
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\refint\EldenRing.Mvc.App.Business.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.pdb
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\ref\EldenRing.Mvc.App.Business.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\bin\Debug\net6.0\EldenRing.Mvc.App.Data.dll
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\bin\Debug\net6.0\EldenRing.Mvc.App.Data.pdb
+C:\Users\jerem\source\repos\EldenRing.Mvc.App\EldenRing.Mvc.App.Business\obj\Debug\net6.0\EldenRing.Mvc.App.Business.csproj.CopyComplete
